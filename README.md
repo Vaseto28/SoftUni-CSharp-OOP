@@ -11,3 +11,5 @@ Here you can find all of my exercises from C# OOP course by SoftUni (Software Un
 [04. Abstraction and interfaces - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-OOP/tree/main/Abstraction%20and%20interfaces%20-%20Exercise)
 
 [05. Polymorphism - Lab](https://github.com/Vaseto28/SoftUni-CSharp-OOP/tree/main/Polymorphism%20-%20Lab)
+
+[06. Polymorphism - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-OOP/tree/main/Polymorphism%20-%20Exercise)
