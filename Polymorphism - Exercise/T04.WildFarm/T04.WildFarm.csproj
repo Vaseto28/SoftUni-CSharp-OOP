@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Foods\" />
+    <None Remove="Animals\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Foods\" />
+    <Folder Include="Animals\" />
+  </ItemGroup>
+</Project>
