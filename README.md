@@ -13,3 +13,5 @@ Here you can find all of my exercises from C# OOP course by SoftUni (Software Un
 [05. Polymorphism - Lab](https://github.com/Vaseto28/SoftUni-CSharp-OOP/tree/main/Polymorphism%20-%20Lab)
 
 [06. Polymorphism - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-OOP/tree/main/Polymorphism%20-%20Exercise)
+
+[07. Reflection and attributes](https://github.com/Vaseto28/SoftUni-CSharp-OOP/tree/main/Reflection%20and%20attributes%20-%20Exercise)
