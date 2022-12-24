@@ -19,3 +19,5 @@ Here you can find all of my exercises from C# OOP course by SoftUni (Software Un
 [08. Unit testing - Lab](https://github.com/Vaseto28/SoftUni-CSharp-OOP/tree/main/Unit%20testing%20-%20Lab)
 
 [09. Unit testing - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-OOP/tree/main/Unit%20testing%20-%20Exercise)
+
+[10. Exam preparations](https://github.com/Vaseto28/SoftUni-CSharp-OOP/tree/main/Exam%20preparations)
